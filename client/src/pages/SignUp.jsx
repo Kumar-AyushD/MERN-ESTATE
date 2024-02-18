@@ -67,7 +67,7 @@ export default function SignUp() {
 
         <button
           disabled={loading}
-          className='bg-slate-700 text-white p-3 rounded-lg uppercase hover:opacity-95 disabled:opacity-80'
+          className='bg-gradient-to-r from-blue-200 from-10% via-sky-300 via-30% to-blue-600 to-90% hover:from-pink-500 hover:to-yellow-500 text-brown-700 p-3 rounded-lg uppercase hover:opacity-95 disabled:opacity-80'
         >
           {loading ? 'Loading...' : 'Sign Up'}
         </button>
