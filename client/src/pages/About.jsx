@@ -1,30 +1,28 @@
-import React from "react";
-
 export default function About() {
   return (
     <div className="py-20 px-4 max-w-6xl mx-auto">
       <h1 className="text-3xl font-bold mb-4 text-slate-800">
-        About Thakur Estate
+        Ayush's Dreamscape Realty: Your Trusted Real Estate Partner
       </h1>
       <p className="mb-4 text-slate-700">
-        Thakur Estate is a leading real estate agency that specializes in
-        helping clients buy, sell, and rent properties in the most desirable
-        neighborhoods. My team of experienced agents is dedicated to providing
-        exceptional service and making the buying and selling process as smooth
-        as possible.
+        At Dreamscape Realty, we're not just in the business of properties;
+        we're in the business of dreams.<br/> Our seasoned team of agents is
+        passionate about helping clients navigate the dynamic real estate
+        landscape.<br/> Whether you're buying, selling, or renting, we're committed
+        to making your journey seamless and rewarding.
       </p>
       <p className="mb-4 text-slate-700">
-        My mission is to help My clients achieve their real estate goals by
-        providing expert advice, personalized service, and a deep understanding
-        of the local market. Whether you are looking to buy, sell, or rent a
-        property, we are here to help you every step of the way.
+        Our mission is simple: to turn your real estate aspirations into
+        reality.<br/> We blend expert advice, personalized service, and an intimate
+        knowledge of local markets to guide you toward your goals.<br/> From cozy
+        condos to sprawling estates, we're here to assist you every step of the
+        way.
       </p>
       <p className="mb-4 text-slate-700">
-        My team of agents has a wealth of experience and knowledge in the real
-        estate industry, and we are committed to providing the highest level of
-        service to my clients. We believe that buying or selling a property
-        should be an exciting and rewarding experience, and we are dedicated to
-        making that a reality for each and every one of my clients.
+        With years of industry expertise, our agents bring a wealth of knowledge
+        to the table.<br/> We understand that real estate decisions are significant,
+        and we're dedicated to ensuring your experience is both exciting and
+        fulfilling.<br/> Let's embark on this journey together!
       </p>
     </div>
   );

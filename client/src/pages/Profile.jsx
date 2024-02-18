@@ -204,7 +204,7 @@ export default function Profile() {
         />
         <input
           type="password"
-          placeholder="password"
+          placeholder="************"
           onChange={handleChange}
           id="password"
           className="border p-3 rounded-lg"
